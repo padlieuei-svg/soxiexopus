@@ -3,6 +3,6 @@
  "builder": "DOCKERFILE"
  },
  "deploy": {
- "startCommand": "python whatsapp_bug_bot.py"
+ "startCommand": "python index.py"
  }
 }
